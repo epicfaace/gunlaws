@@ -1,0 +1,1 @@
+A scraped version of the [Duke Repository of Historical Gun Laws](https://firearmslaw.duke.edu/repository/search-the-repository/).
