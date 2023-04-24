@@ -1,0 +1,27 @@
+0) Private property restrictions: None found.
+
+1) Restrictions in city-owned buildings: None found.
+
+2) Restrictions in federal/state buildings: None found.
+
+3) Restrictions in school or child care facilities: "If any person shall carry concealed, upon or about his person, any deadly or dangerous weapon, or shall go into any church or place where people have assembled for religious worship, or into any school room or place where people are assembled for educational, literary or social purposes, or to any election precinct on any election day, or into any court room during the sitting of court, or into any other public assemblage of persons met for any lawful purpose other than for militia drill or meetings called under the militia law of this state, having upon or about his person any kind of fire arms, bowie knife, dirk, dagger, slung-shot, or other deadly weapon"
+
+4) Restrictions in public parks: None found.
+
+5) Restrictions in shelters to protect at-risk people: None found.
+
+6) Restrictions in nature preserves: None found.
+
+7) Restrictions in voter service centers: "If any person shall carry concealed, upon or about his person, any deadly or dangerous weapon, or shall go into any church or place where people have assembled for religious worship, or into any school room or place where people are assembled for educational, literary or social purposes, or to any election precinct on any election day, or into any court room during the sitting of court, or into any other public assemblage of persons met for any lawful purpose other than for militia drill or meetings called under the militia law of this state, having upon or about his person any kind of fire arms, bowie knife, dirk, dagger, slung-shot, or other deadly weapon"
+
+8) Restrictions in public transportation: None found.
+
+9) Restrictions in liquor establishments: None found.
+
+10) Restrictions at public gatherings: "If any person shall carry concealed, upon or about his person, any deadly or dangerous weapon, or shall go into any church or place where people have assembled for religious worship, or into any school room or place where people are assembled for educational, literary or social purposes, or to any election precinct on any election day, or into any court room during the sitting of court, or into any other public assemblage of persons met for any lawful purpose other than for militia drill or meetings called under the militia law of this state, having upon or about his person any kind of fire arms, bowie knife, dirk, dagger, slung-shot, or other deadly weapon"
+
+11) Restrictions at entertainment establishments: None found.
+
+12) Restrictions at cannabis dispensaries: None found.
+
+13) Restrictions at healthcare facilities: None found.

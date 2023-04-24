@@ -1,0 +1,14 @@
+0) Private property restrictions - not found
+1) Restrictions in city-owned buildings - not found
+2) Restrictions in federal/state buildings - not found
+3) Restrictions in school or child care facilities - not found
+4) Restrictions in public parks - not found
+5) Restrictions in shelters to protect at-risk people - not found
+6) Restrictions in nature preserves - not found
+7) Restrictions in voter service centers - "it shall be unlawful for any person to carry any gun, pistol, bowie knife or other dangerous weapon, concealed or unconcealed, on any day of election during the hours the polls are open, or on any day of registration or revision of registration, within a distance of one-half mile of any place of registration or revision of registration"
+8) Restrictions in public transportation - not found
+9) Restrictions in liquor establishments - not found
+10) Restrictions at public gatherings - not found
+11) Restrictions at entertainment establishments - not found
+12) Restrictions at cannabis dispensaries - not found
+13) Restrictions at healthcare facilities - not found
